@@ -1,4 +1,4 @@
-  **Hi, I'm #Mohammad Tayef 👋**
+  **#Hi, I'm Mohammad Tayef 👋**
 
 🚀 **Frontend Developer | Open-Source Enthusiast**  
 💡 Passionate about React, Next.js & UI/UX  
