@@ -1,5 +1,5 @@
 # Mohammad Tayef 👋  
-**EEE Student | Web Developer | Cybersecurity Enthusiast**  
+**Engineer🧑‍💻 | Web Developer | Cybersecurity Enthusiast**  
 
 🔭 Currently working on **React.js**  
 🌱 Learning **JavaScript & Ethical Hacking**  
