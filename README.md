@@ -1,12 +1,11 @@
   ### Hi,I'm Mohammad Tayef 👋
 
 🚀 **Frontend Developer | Open-Source Enthusiast**  
-💡 Passionate about React, Next.js & UI/UX  
+💡 Passionate about React, Next.js,UI/UX & Python 
 🌱 Currently learning **Web3 & Blockchain**  
 📫 Reach me: **tayefrules@gmail.com**  
 
 ### 🔥 My Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=dark)](https://git.io/streak-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🛠️ My Tech Stack
