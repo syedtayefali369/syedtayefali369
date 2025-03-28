@@ -11,7 +11,7 @@
 - **Tools**: Git, VS Code, Figma  
 
 ### 📌 Featured Projects
-▶️ [E-Commerce Store](https://github.com/yourusername/ecommerce)  
+▶️ [E-Commerce Store](https://tayef602.github.io/e-commerce-website.github.io/)  
 ▶️ [Portfolio Website](https://github.com/yourusername/portfolio)  
 ▶️ [Open-Source Contribution](https://github.com/yourusername/opensource)  
 
