@@ -2,15 +2,12 @@
 
 🚀 **Frontend Developer | Open-Source Enthusiast**  
 💡 Passionate about React, Next.js,UI/UX & Python 
-🌱 Currently learning **Web3 & Blockchain**  
+🌱 Currently learning **Web dev & Python**  
 📫 Reach me: **tayefrules@gmail.com**  
-
-### 🔥 My Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🛠️ My Tech Stack
 - **Frontend**: React, Next.js, TailwindCSS  
-- **Backend**: Node.js, Express, Firebase  
+- **Backend**: Node.js, Express, Firebase, Python 
 - **Tools**: Git, VS Code, Figma  
 
 ### 📌 Featured Projects
