@@ -1,16 +1,20 @@
-  ### Hi,I'm Mohammad Tayef 👋
+  ### Hi,I'm Syed Tayef Ali Hashemi 👋
 
-🚀 **Frontend Developer | Open-Source Enthusiast**  
+🚀 **Web Developer | Open-Source Enthusiast**  
 💡 Passionate about React, Next.js,UI/UX & Python 
-🌱 Currently learning **Web dev & Python**  
+🌱 Currently learning **AI & ML**  
 📫 Reach me: **tayefrules@gmail.com**  
 
 ### 🛠️ My Tech Stack
-- **Frontend**: React, Next.js, TailwindCSS  
-- **Backend**: Node.js, Express, Firebase, Python 
-- **Tools**: Git, VS Code, Figma  
+
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white)
+- ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?logo=greensock&logoColor=white)
 
 ### 📌 Featured Projects
+
 ▶️ [E-Commerce Store](https://tayef602.github.io/e-commerce-website.github.io/)  
 ▶️ [Portfolio Website](https://tayef602.github.io/Mohammad-Tayef.github.io/)  
 ▶️ [Open-Source Contribution](https://github.com/yourusername/opensource)  
