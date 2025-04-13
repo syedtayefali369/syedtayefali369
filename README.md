@@ -9,7 +9,7 @@
 
 ---
 
-## 🛠 Tech Stac
+## 🛠 Tech Stack
 
 ### **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
