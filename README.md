@@ -37,15 +37,15 @@
 
 ## 🚀 Featured Projects
 
-### [E-Commerce Store](https://tayef602.github.io/e-commerce-website.github.io/)
+### [E-Commerce Store](https://tayef602.github.io/E-Commerce-website.github.io/)
 Modern e-commerce platform with dynamic UI  
 **Tech:** React, Tailwind, Firebase  
-[🔗 Live Demo](https://tayef602.github.io/e-commerce-website.github.io/) | [📂 Code](https://github.com/tayef602/e-commerce-website.github.io)
+[🔗 Live Demo](https://syedtayefali369.github.io/e-commerce-website.github.io/) | [📂 Code](https://github.com/syedtayefali369/e-commerce-website.github.io)
 
-### [Portfolio Website](https://tayef602.github.io/Mohammad-Tayef.github.io/)
+### [Portfolio Website](https://syedtayefali369.github.io/Syed-Tayef.Portfolio.github.io/)
 Interactive personal portfolio with animations  
 **Tech:** GSAP, Sass, JavaScript  
-[🔗 Live Demo](https://tayef602.github.io/Mohammad-Tayef.github.io/) | [📂 Code](https://github.com/tayef602/Mohammad-Tayef.github.io)
+[🔗 Live Demo](https://mohammad-tayef-github-mt2bug7p5-mohammad-tayefs-projects.vercel.app) | [📂 Code](https://github.com/syedtayefali369/syed-Tayef-ali-hashemi.github.io)
 
 ### Open-Source Contributions
 Active contributor to community-driven projects  
