@@ -45,7 +45,7 @@ Modern e-commerce platform with dynamic UI
 ### [Portfolio Website](https://syedtayefali369.github.io/Syed-Tayef.Portfolio.github.io/)
 Interactive personal portfolio with animations  
 **Tech:** GSAP, Sass, JavaScript  
-[🔗 Live Demo](https://mohammad-tayef-github-mt2bug7p5-mohammad-tayefs-projects.vercel.app) | [📂 Code](https://github.com/syedtayefali369/syed-Tayef-ali-hashemi.github.io)
+[🔗 Live Demo](https://mohammad-tayef-github-mt2bug7p5-mohammad-tayefs-projects.vercel.app) | [📂 Code](Syed-Tayef.Portfolio.github.io)
 
 ### Open-Source Contributions
 Active contributor to community-driven projects  
