@@ -37,7 +37,7 @@
 
 ## 🚀 Featured Projects
 
-### [E-Commerce Store](https://tayef602.github.io/E-Commerce-website.github.io/)
+### [E-Commerce Store](https://syedtayefali369.github.io/E-Commerce-website.github.io/)
 Modern e-commerce platform with dynamic UI  
 **Tech:** React, Tailwind, Firebase  
 [🔗 Live Demo](https://syedtayefali369.github.io/e-commerce-website.github.io/) | [📂 Code](https://github.com/syedtayefali369/e-commerce-website.github.io)
