@@ -42,14 +42,14 @@ Modern e-commerce platform with dynamic UI
 **Tech:** React, Tailwind, Firebase  
 [🔗 Live Demo](https://syedtayefali369.github.io/e-commerce-website.github.io/) | [📂 Code](https://github.com/syedtayefali369/e-commerce-website.github.io)
 
-### [Portfolio Website](https://syedtayefali369.github.io/Syed-Tayef.Portfolio.github.io/)
+### [Portfolio Website](https://mohammad-tayef-github-mt2bug7p5-mohammad-tayefs-projects.vercel.app)
 Interactive personal portfolio with animations  
 **Tech:** GSAP, Sass, JavaScript  
 [🔗 Live Demo](https://mohammad-tayef-github-mt2bug7p5-mohammad-tayefs-projects.vercel.app) | [📂 Code](Syed-Tayef.Portfolio.github.io)
 
 ### Open-Source Contributions
 Active contributor to community-driven projects  
-[🌐 Explore](https://github.com/tayef602)
+# [🌐 Explore](https://github.com/tayef602)
 
 ---
 
