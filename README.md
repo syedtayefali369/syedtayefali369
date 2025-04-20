@@ -2,7 +2,7 @@
 
 ### Web Developer | UI/UX Specialist | Open-Source Contributor
 
-🚀 Building scalable web applications with modern tech stacks  
+🚀 Building scalable website & web applications with modern tech stacks  
 💡 Passionate about **React, Next.js, Python & AI/ML**  
 🌱 Currently diving deeper into **Machine Learning & AI**  
 📫 Reach me: **tayefrules@gmail.com**  
@@ -37,19 +37,19 @@
 
 ## 🚀 Featured Projects
 
+### [Portfolio Website](https://mohammad-tayef-github-io.vercel.app/)
+Interactive personal portfolio with animations  
+**Tech:** GSAP, Sass, JavaScript  
+[🔗 Live Demo](https://mohammad-tayef-github-io.vercel.app/) | [📂 Code](https://github.com/syedtayefali369/Syed-Tayef.Portfolio.github.io)
+
 ### [E-Commerce Store](https://syedtayefali369.github.io/E-Commerce-website.github.io/)
 Modern e-commerce platform with dynamic UI  
 **Tech:** React, Tailwind, Firebase  
 [🔗 Live Demo](https://syedtayefali369.github.io/e-commerce-website.github.io/) | [📂 Code](https://github.com/syedtayefali369/e-commerce-website.github.io)
 
-### [Portfolio Website](https://mohammad-tayef-github-mt2bug7p5-mohammad-tayefs-projects.vercel.app)
-Interactive personal portfolio with animations  
-**Tech:** GSAP, Sass, JavaScript  
-[🔗 Live Demo](https://mohammad-tayef-github-mt2bug7p5-mohammad-tayefs-projects.vercel.app) | [📂 Code](https://github.com/syedtayefali369/Syed-Tayef.Portfolio.github.io)
-
 ### Open-Source Contributions
 Active contributor to community-driven projects  
-# [🌐 Explore](https://github.com/tayef602)
+# [🌐 Explore](https://github.com/syedtayefali369)
 
 ---
 
