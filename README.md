@@ -1,6 +1,6 @@
 # Syed Tayef Ali Hashemi 👋
 
-### Web Developer | UI/UX Specialist | Open-Source Contributor
+### Web Developer | Front-End Specialist | Open-Source Contributor
 
 🚀 Building scalable website & web applications with modern tech stacks  
 💡 Passionate about **React, Next.js, Python & AI/ML**  
