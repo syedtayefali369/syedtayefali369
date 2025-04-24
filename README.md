@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/78cbaa9c-5caa-4b31-9c47-cedb3fd2daf5)
+https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
 
 # Syed Tayef Ali Hashemi 👋
 
