@@ -1,4 +1,4 @@
-https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
+![line gif](https://github.com/user-attachments/assets/27a9d306-fc26-47ea-8589-56952babfd75)
 
 # Syed Tayef Ali Hashemi 👋
 
@@ -7,9 +7,8 @@ https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-
 🚀 Building scalable website & web applications with modern tech stacks  
 💡 Passionate about **React, Next.js, Python & AI/ML**  
 🌱 Currently diving deeper into **Machine Learning & AI**  
-![image](https://github.com/user-attachments/assets/42ffe06c-14d6-4d7f-9de5-d6e243570560)
 
-
+![line gif](https://github.com/user-attachments/assets/369c567f-f9c2-4a8b-b265-eef2837d0b65)
 ---
 
 ## 🛠 Tech Stack
