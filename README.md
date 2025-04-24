@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/78cbaa9c-5caa-4b31-9c47-cedb3fd2daf5)
+
 # Syed Tayef Ali Hashemi 👋
 
 ### Web Developer | Front-End Specialist | Open-Source Contributor
@@ -5,7 +7,8 @@
 🚀 Building scalable website & web applications with modern tech stacks  
 💡 Passionate about **React, Next.js, Python & AI/ML**  
 🌱 Currently diving deeper into **Machine Learning & AI**  
-📫 Reach me: **tayefrules@gmail.com**  
+![image](https://github.com/user-attachments/assets/42ffe06c-14d6-4d7f-9de5-d6e243570560)
+
 
 ---
 
