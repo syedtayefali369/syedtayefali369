@@ -49,9 +49,15 @@ Modern e-commerce platform with dynamic UI
 **Tech:** React, Tailwind, Firebase  
 [🔗 Live Demo](https://syedtayefali369.github.io/e-commerce-website.github.io/) | [📂 Code](https://github.com/syedtayefali369/e-commerce-website.github.io)
 
-### Open-Source Contributions
-Active contributor to community-driven projects  
-# [🌐 Explore](https://github.com/syedtayefali369)
+### 📊 GitHub Stats
+
+![Tayef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedtayefali369&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syedtayefali369&layout=compact&theme=tokyonight)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=syedtayefali369&theme=tokyonight)](https://git.io/streak-stats)
+
+![Profile Views](https://komarev.com/ghpvc/?username=syedtayefali369&color=blue)
 
 ---
 
