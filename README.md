@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=syedtayefali369&color=blue)             
 ![line gif](https://github.com/user-attachments/assets/27a9d306-fc26-47ea-8589-56952babfd75)
 
 # Syed Tayef Ali Hashemi 👋
@@ -56,7 +57,6 @@ Modern e-commerce platform with dynamic UI
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syedtayefali369&layout=compact&theme=tokyonight)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=syedtayefali369)](https://git.io/streak-stats)
-![Profile Views](https://komarev.com/ghpvc/?username=syedtayefali369&color=blue)
 
 ---
 
