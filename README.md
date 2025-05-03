@@ -52,8 +52,6 @@ Modern e-commerce platform with dynamic UI
 
 ### 📊 GitHub Stats
 
-![Tayef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedtayefali369&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syedtayefali369&layout=compact&theme=tokyonight)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=syedtayefali369)](https://git.io/streak-stats)
