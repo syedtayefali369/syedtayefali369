@@ -56,6 +56,9 @@ Modern e-commerce platform with dynamic UI
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=syedtayefali369)](https://git.io/streak-stats)
 
+[![Tayef GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=syedtayefali369&theme=github-compact&bg_color=000000&line=009A22&point=98FB98&color=00FF2B&title_color=00FF2B&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ---
 
 ## 📫 Let's Connect
