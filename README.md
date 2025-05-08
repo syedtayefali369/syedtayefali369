@@ -42,10 +42,10 @@
 
   <div align="center" style="display: flex;">
     <a href="https://github.com">
-        <img src="./assets/portfolio.jpg" width=330 height=180/>
+        <img src="./assets/PORTFOLIO.png" width=330 height=180/>
     </a>
     <a href="https://github.com/">
-        <img src="./assets/designs.png" width=330 height=180/>
+        <img src="./assets/E-com.png" width=330 height=180/>
     </a>
 </div>
 <br/>
