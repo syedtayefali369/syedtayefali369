@@ -41,10 +41,10 @@
 ## 🚀 Featured Projects
 
   <div align="center" style="display: flex;">
-    <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+    <a href="https://github.com">
         <img src="./assets/PORTFOLIO.png" width=330 height=180/>
     </a>
-    <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+    <a href="https://github.com/">
         <img src="./assets/E-com.png" width=330 height=180/>
     </a>
 </div>
