@@ -40,26 +40,24 @@
 
 ## 🚀 Featured Projects
 
-<div align="center" style="display: flex;">
-    <a href="https://mohammad-tayef-github-io.vercel.app/">
+  <div align="center" style="display: flex;">
+    <a href="https://github.com">
         <img src="./assets/image(2).jpg" width=330 height=180/>
     </a>
-
-<div align="center" style="display: flex;">
-    <a href="https://mohammad-tayef-github-io.vercel.app/">
-        <img src="./assets/hackathons.png" width=330 height=180/>
+    <a href="https://github.com/">
+        <img src="./assets/designs.png" width=330 height=180/>
     </a>
+</div>
 <br/>
 <div align="center" style="display: flex;">
-    <a href="https://github.com/DIMFLIX-Hackathons](https://mohammad-tayef-github-io.vercel.app/">
-        <img src="./assets/hackathons.png" width=330 height=180/>
+    <a href="https://github.com/">
+        <img src="./assets/meowrch.png" width=330 height=180/>
     </a>
-<div align="center" style="display: flex;">
-    <a href="https://github.com/DIMFLIX-Hackathons](https://mohammad-tayef-github-io.vercel.app/">
-        <img src="./assets/hackathons.png" width=330 height=180/>
+    <a href="https://github.com/">
+        <img src="./assets/telegram-bots.png" width=330 height=180/>
     </a>
+</div>
 
-  
 ### [Portfolio Website](https://mohammad-tayef-github-io.vercel.app/)
 Interactive personal portfolio with animations  
 **Tech:** GSAP, Sass, JavaScript  
