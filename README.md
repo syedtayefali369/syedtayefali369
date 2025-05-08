@@ -48,26 +48,7 @@
         <img src="./assets/E-com.png" width=330 height=180/>
     </a>
 </div>
-<br/>
-<div align="center" style="display: flex;">
-    <a href="https://github.com/">
-        <img src="./assets/meowrch.png" width=330 height=180/>
-    </a>
-    <a href="https://github.com/">
-        <img src="./assets/telegram-bots.png" width=330 height=180/>
-    </a>
-</div>
-
-### [Portfolio Website](https://mohammad-tayef-github-io.vercel.app/)
-Interactive personal portfolio with animations  
-**Tech:** GSAP, Sass, JavaScript  
-[🔗 Live Demo](https://mohammad-tayef-github-io.vercel.app/) | [📂 Code](https://github.com/syedtayefali369/Syed-Tayef.Portfolio.github.io)
-
-### [E-Commerce Store](https://syedtayefali369.github.io/E-Commerce-website.github.io/)
-Modern e-commerce platform with dynamic UI  
-**Tech:** React, Tailwind, Firebase  
-[🔗 Live Demo](https://syedtayefali369.github.io/e-commerce-website.github.io/) | [📂 Code](https://github.com/syedtayefali369/e-commerce-website.github.io)
-
+    
 ### 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syedtayefali369&layout=compact&theme=tokyonight)
