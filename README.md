@@ -41,23 +41,24 @@
 ## 🚀 Featured Projects
 
 <div align="center" style="display: flex;">
-    <a href="https://github.com/DIMFLIX-Hackathons](https://mohammad-tayef-github-io.vercel.app/">
+    <a href="https://mohammad-tayef-github-io.vercel.app/">
+        <img src="./assets/portfolio.ss.png" width=330 height=180/>
+    </a>
+
+<div align="center" style="display: flex;">
+    <a href="https://mohammad-tayef-github-io.vercel.app/">
         <img src="./assets/hackathons.png" width=330 height=180/>
     </a>
-  
+<br/>
 <div align="center" style="display: flex;">
     <a href="https://github.com/DIMFLIX-Hackathons](https://mohammad-tayef-github-io.vercel.app/">
         <img src="./assets/hackathons.png" width=330 height=180/>
     </a>
-  
 <div align="center" style="display: flex;">
     <a href="https://github.com/DIMFLIX-Hackathons](https://mohammad-tayef-github-io.vercel.app/">
         <img src="./assets/hackathons.png" width=330 height=180/>
     </a>
-<div align="center" style="display: flex;">
-    <a href="https://github.com/DIMFLIX-Hackathons](https://mohammad-tayef-github-io.vercel.app/">
-        <img src="./assets/hackathons.png" width=330 height=180/>
-    </a>
+
   
 ### [Portfolio Website](https://mohammad-tayef-github-io.vercel.app/)
 Interactive personal portfolio with animations  
