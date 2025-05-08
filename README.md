@@ -42,7 +42,7 @@
 
 <div align="center" style="display: flex;">
     <a href="https://mohammad-tayef-github-io.vercel.app/">
-        <img src="./assets/portfolio.ss.png" width=330 height=180/>
+        <img src="./assets/image(2).jpg" width=330 height=180/>
     </a>
 
 <div align="center" style="display: flex;">
