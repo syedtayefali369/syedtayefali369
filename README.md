@@ -58,12 +58,6 @@ Real-time sentiment analysis using NLP and machine learning.
 Full-stack e-commerce app with cart and payment integration.  
 [**Repo**](https://github.com/syedtayefali369/ecommerce-app) | [**Demo**](https://ecommerce-tayef.vercel.app/)
 
-### 4. **Task Automation CLI Tool**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-4EAA25?logo=gnu-bash&logoColor=white)  
-Automate repetitive tasks like file organization and backups.  
-[**Repo**](https://github.com/syedtayefali369/task-automation)
-
 ---
 
 ## 📊 GitHub Stats
