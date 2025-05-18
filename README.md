@@ -46,13 +46,7 @@
 A modern portfolio with animations and responsive design.  
 [**Repo**](https://github.com/syedtayefali369/portfolio) | [**Demo**](https://tayef.vercel.app/)
 
-### 2. **AI-Powered Sentiment Analysis Tool**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
-Real-time sentiment analysis using NLP and machine learning.  
-[**Repo**](https://github.com/syedtayefali369/sentiment-analysis) | [**Demo**](https://sentiment-tayef.vercel.app/)
-
-### 3. **E-Commerce Platform**  
+### 2. **E-Commerce Platform**  
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  
 Full-stack e-commerce app with cart and payment integration.  
