@@ -44,13 +44,13 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=white)  
 A modern portfolio with animations and responsive design.  
-[**Repo**](https://github.com/syedtayefali369/portfolio) | [**Live**](https://v0-web-dev-portfolio-tau.vercel.app/)
+🛑[**Live**](https://v0-web-dev-portfolio-tau.vercel.app/)
 
 ### 2. **E-Commerce Platform**  
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  
 Full-stack e-commerce app with cart and payment integration.  
-[**Repo**]([https://github.com/syedtayefali369/ecommerce-app]) | [**Live**](https://e-commerce-website-github-io-five.vercel.app/)
+🛑[**Live**](https://e-commerce-website-github-io-five.vercel.app/)
 
 ---
 
