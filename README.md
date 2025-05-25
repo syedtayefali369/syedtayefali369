@@ -50,7 +50,7 @@ A modern portfolio with animations and responsive design.
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  
 Full-stack e-commerce app with cart and payment integration.  
-[**Repo**]([https://github.com/syedtayefali369/ecommerce-app]) | [**Live**](https://ecommerce-tayef.vercel.app/)
+[**Repo**]([https://github.com/syedtayefali369/ecommerce-app]) | [**Live**](https://e-commerce-website-github-io-five.vercel.app/)
 
 ---
 
