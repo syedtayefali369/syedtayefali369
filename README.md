@@ -44,7 +44,7 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=white)  
 A modern portfolio with animations and responsive design.  
-[**Repo**](https://github.com/syedtayefali369/portfolio) | [**Live**](https://tayef.vercel.app/)
+[**Repo**](https://github.com/syedtayefali369/portfolio) | [**Live**](https://v0-web-dev-portfolio-tau.vercel.app/)
 
 ### 2. **E-Commerce Platform**  
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
