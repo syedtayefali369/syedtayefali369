@@ -1,6 +1,6 @@
 ![line gif](https://github.com/user-attachments/assets/27a9d306-fc26-47ea-8589-56952babfd75)
 
-# Syed Tayef Ali Hashemi 👋 | ![Profile Views](https://komarev.com/ghpvc/?username=syedtayefali369&color=blue)
+# Tayef Ali Hashemi 👋 | ![Profile Views](https://komarev.com/ghpvc/?username=syedtayefali369&color=blue)
 
 ### Web Developer | Front-End Specialist | Open-Source Contributor
 
