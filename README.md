@@ -2,9 +2,9 @@
 
 # Tayef Ali Hashemi 👋 | ![Profile Views](https://komarev.com/ghpvc/?username=syedtayefali369&color=blue)
 
-### Web Developer | Front-End Specialist | Open-Source Contributor
+### Founder & CEO [ MissleX ] | CSE,Electrical & Aerospace Specialist  | Open-Source Contributor
 
-🚀 Building scalable websites & web applications with modern tech stacks  
+🚀 Building Future Tech Indrustry of Bangladesh
 💡 Passionate about **React, Next.js, Python & AI/ML**  
 🌱 Currently diving deeper into **Machine Learning & AI**  
 ⚡ Fun Fact: I automate boring tasks with Python scripts!
