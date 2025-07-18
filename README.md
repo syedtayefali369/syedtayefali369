@@ -2,7 +2,7 @@
 
 # Tayef Ali Hashemi 👋 | ![Profile Views](https://komarev.com/ghpvc/?username=syedtayefali369&color=blue)
 
-### Founder & CEO [ MissleX ] | CSE,Electrical & Aerospace Specialist  | Open-Source Contributor
+### Founder,CEO & Engineer -[ MissleX ](https://github.com/MissleX) | CSE,Electrical & Aerospace Specialist  | Open-Source Contributor
 
 🚀 Building Future Tech Indrustry of Bangladesh
 💡 Passionate about **React, Next.js, Python & AI/ML**  
