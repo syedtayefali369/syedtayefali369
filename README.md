@@ -1,14 +1,15 @@
-# Tayef Ali Hashemi 👋 | ![Profile Views](https://komarev.com/ghpvc/?username=syedtayefali369&color=blue)
+# Tayef Ali Hashemi☑
 <img width="1584" height="396" alt="Intro Rust Base Shade" src="https://github.com/user-attachments/assets/1b02bbc1-95a5-4e85-9a96-257114080dd3" />
 
 
 ![line gif](https://github.com/user-attachments/assets/27a9d306-fc26-47ea-8589-56952babfd75)
+## Tayef Ali Hashemi 🖐🏻 | 🟢  ![Profile Views](https://komarev.com/ghpvc/?username=syedtayefali369&color=blue)
 ### Founder,CEO & Engineer -[ MissleX ](https://github.com/MissleX) | CSE,Electrical & Aerospace Engineer | Open-Source Contributor
 
-🚀 Building Future Tech Indrustry of Bangladesh
-💡 Passionate about **React, Next.js, Python & AI/ML**  
-🌱 Currently diving deeper into **Machine Learning & AI**  
-⚡ Fun Fact: I automate boring tasks with Python scripts!
+- 🚀 Building Future Tech Indrustry of Bangladesh🇧🇩
+- 💡 Passionate about **React, Next.js, Python & AI/ML**  
+- 🌱 Currently diving deeper into **Machine Learning & AI**  
+- ⚡ Fun Fact: I automate boring tasks with Python scripts!
 
 ![line gif](https://github.com/user-attachments/assets/369c567f-f9c2-4a8b-b265-eef2837d0b65)
 
