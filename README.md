@@ -42,16 +42,17 @@
 ## 🚀 Featured Projects
 
 ### 1. **Portfolio Website**  
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=white)  
-A modern portfolio with animations and responsive design.  
-🛑[**Live**](https://v0-web-dev-portfolio-tau.vercel.app/)
+A modern portfolio with animations and responsive design.
 
-### 2. **E-Commerce Platform**  
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  
+<img width="100" height="80" alt="PORTFOLIO" src="https://github.com/user-attachments/assets/03034399-1ec9-4d75-874e-4a675596e77e" />
+
+ 🛑[**Live**](https://v0-web-dev-portfolio-tau.vercel.app/)
+
+### 2. **E-Commerce Platform**   
 Full-stack e-commerce app with cart and payment integration  
+
+<img width="100" height="80" alt="e-com" src="https://github.com/user-attachments/assets/11e43dcd-1350-4ace-ad70-7abfe3a6217a" />
+
 🛑[**Live**](https://e-commerce-website-github-io-five.vercel.app/)
 
 ---
@@ -67,6 +68,6 @@ Full-stack e-commerce app with cart and payment integration
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-tayef-a68a4a352/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white )](https://www.linkedin.com/in/md-tayef-a68a4a352/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=x&logoColor=white)](https://x.com/Tay3fM6854)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tayefrules@gmail.com)
