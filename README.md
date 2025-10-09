@@ -7,9 +7,11 @@
 ### 🖥️ Web Developer | CSE,Electrical & Aerospace Enthusiast | Open-Source Contributor
 
 - 🚀 Building Future Tech Indrustry of Bangladesh🇧🇩
-- 💡 Passionate about **React, Next.js, Python & AI/ML**  
-- 🌱 I build Optimized & Proffesional websites**  
-- ⚡ Fun Fact: I automate boring tasks with Python scripts!
+- 💡 Passionate about **React,Next.js,Python & AI/ML**  
+- ⚡ I build Optimized & **Proffesional websites**
+ 
+   [<img width="111" height="55" alt="btn" src="https://github.com/user-attachments/assets/3287bb44-dbae-4ada-bec4-1aa8c60236de" />](mailto:tayefrules@gmail.com)
+
 
 ![line gif](https://github.com/user-attachments/assets/369c567f-f9c2-4a8b-b265-eef2837d0b65)
 
