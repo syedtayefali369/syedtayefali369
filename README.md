@@ -4,11 +4,11 @@
 
 ![line gif](https://github.com/user-attachments/assets/27a9d306-fc26-47ea-8589-56952babfd75)
 ## Mohammad Tayef Ali 🖐🏻 | 🟢  ![Profile Views](https://komarev.com/ghpvc/?username=syedtayefali369&color=blue)
-### 🖥️ Web Developer | CSE,Electrical & Aerospace Enthusiast | Open-Source Contributor
+### 🖥️ Web Developer | </> Full Stack Developer | ⚛️ React | Open For Job,Collab & Paid Projects
 ```
-- 🚀 Building Future Tech Indrustry of Bangladesh🇧🇩
-- 💡 Passionate about **React,Next.js,Python & AI/ML**  
-- ⚡ I build Optimized & **Proffesional websites**
+- 🚀 Building Website With Cutting edge Technology
+- 💡 Passionate about _React,Next.js,Python & AI/ML_
+- ⚡ I build Optimized SEO & Proffesional Websites
 ```
  
    [<img width="111" height="55" alt="btn" src="https://github.com/user-attachments/assets/3287bb44-dbae-4ada-bec4-1aa8c60236de" />](mailto:tayefrules@gmail.com)
