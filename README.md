@@ -49,7 +49,7 @@ A modern portfolio with animations and responsive design.
 
 <img width="100" height="80" alt="PORTFOLIO" src="https://github.com/user-attachments/assets/03034399-1ec9-4d75-874e-4a675596e77e" />
 
- 🛑[**Live**](https://syedtayefali369.github.io/-Portfolio-11.11/)
+ 🛑[**Live**](https://syedtayefali369.github.io/-Portfolio-11.11/<target="blank"</> ) 
 
 ### 2. **E-Commerce Platform**   
 Full-stack e-commerce app with cart and payment integration  
