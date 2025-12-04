@@ -7,7 +7,7 @@
 ### 🖥️ Web Developer | </> Full Stack Developer | ⚛️ React | Next.js | JavaScript | Python
 ```
 - 🚀 Building Website With Cutting edge Technology
-- 💡 Passionate about DSA,Algoritmh,Js,Python & AI/ML_
+- 💡 Passionate about DSA,Algoritmh,Js,Python & AI/ML
 - ⚡ I build full-stack Optimized SEO & Proffesional Websites
 ```
  
