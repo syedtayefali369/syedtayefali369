@@ -4,7 +4,7 @@
 
 ![line gif](https://github.com/user-attachments/assets/27a9d306-fc26-47ea-8589-56952babfd75)
 ## Mohammad Tayef Ali 🖐🏻 | 🟢  ![Profile Views](https://komarev.com/ghpvc/?username=syedtayefali369&color=blue)
-### 🖥️ Web Developer | </> Full Stack Developer | ⚛️ React | Next.js | JavaScript | Python
+### 🖥️ Web Developer | </> Full Stack Developer | ⚛️ React | TypeScript | JavaScript | Python
 ```
 - 🚀 Building Website With Cutting edge Technology
 - 💡 Passionate about DSA,Algoritmh,Js,Python & AI/ML
