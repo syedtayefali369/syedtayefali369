@@ -1,10 +1,10 @@
-# Mohammad Tayef Ali ☑
+# Mohammad Tayef ☑
 <img width="1584" height="396" alt="Intro Rust Base Shade" src="https://github.com/user-attachments/assets/1b02bbc1-95a5-4e85-9a96-257114080dd3" />
 
 
 ![line gif](https://github.com/user-attachments/assets/27a9d306-fc26-47ea-8589-56952babfd75)
 ## Mohammad Tayef Ali 🖐🏻 | 🟢  ![Profile Views](https://komarev.com/ghpvc/?username=syedtayefali369&color=blue)
-### 🖥️ Web Developer | </> Full Stack Developer | ⚛️ React | 🔹 TypeScript | 🔸 JavaScript | 🔰Python
+### 🖥️ Web Developer | </> Full Stack Developer | ⚛️ React | 🔹 TypeScript | 🔸 JavaScript | 🔰Python | ⚡️Laravvel
 ```
 - 🚀 Building Website With Cutting edge Technology
 - 💡 Passionate about DSA,Algoritmh,Js,Python & AI/ML
